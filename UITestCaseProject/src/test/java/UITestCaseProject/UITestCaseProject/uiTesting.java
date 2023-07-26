@@ -35,6 +35,7 @@ public class uiTesting {
 			FileUtils.copyFile(srcFile, destFile);
 			driver.navigate().back();
 		}
+		System.out.println("Shivaraj Madiwal");
 		driver.quit();
 		//Shivaraj M
 	}
